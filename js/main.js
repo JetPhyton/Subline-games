@@ -1,0 +1,1 @@
+function addData(t){for(var e=document.getElementsByTagName("img").getAttribute("src"),i=document.getElementsByTagName("img"),n=0;n<e.length;n++)i[n].setAttribute("src",t+e[n])}function ibg(){$each($("ibg"),function(t,e){0<$(this).find("img").length&&$(this).css("background-image",'url("'+$(this).find("img").attr("src")+'")')})}params="",window.addEventListener("click",t=>{});
